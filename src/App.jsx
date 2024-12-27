@@ -1,10 +1,10 @@
 
-
  function App(){
   return (
     <>
       <div>
-      <H1>HAYAT JAHANGIR KHAN</H1>
+      <h1>HAYAT JAHANGIR KHAN</h1>
+      <h1>Mohd Sulaiman Wani</h1>
       
       </div>
       
